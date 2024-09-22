@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 Unit tests, written with [QUnit](http://docs.jquery.com/QUnit), are used to
 expose bugs for squashing, prevent bugs from respawning, and suppress new
 bugs when adding new features and making changes.
